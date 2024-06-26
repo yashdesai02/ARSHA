@@ -233,7 +233,7 @@ a{
     background-color: #fff !important;
 }
 .architect-img{
-    background-image: url(../images/why-us.png);
+    background-image: url(./why-us.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
